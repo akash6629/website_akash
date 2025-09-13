@@ -95,16 +95,7 @@
     }
   },
  
-  {
-    "name": "PI Controller",
-    "desc": "Design and Development of Inner Current Control Strategies Using PI Controller for Ev",
-    "image": "",
-    "category": "Website",
-    "links": {
-      "view": "https://github.com/akash6629",
-      "code": "https://github.com/akash6629"
-    }
-  },
+ 
   {
     "name": "POWER BI",
     "desc": "E-Commerce Sales Report ",
