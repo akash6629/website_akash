@@ -3,7 +3,7 @@
 
    {
     "name": "Automation Testing of Ecommerce WEB Application",
-    "desc": "Maven-based E-commerce test automation project using Java, Selenium WebDriver, and TestNG. Includes Page Object-based automation scripts, end-to-end test cases, and automatic generation of reports and screenshots",
+    "desc": "Maven-based E-commerce test automation using Java, Selenium, TestNG, reports.",
     "image": "report",
     "category": "Software",
     "links": {
