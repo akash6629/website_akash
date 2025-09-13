@@ -1,5 +1,16 @@
 [
  
+
+   {
+    "name": "Automation Testing of Ecommerce WEB Application",
+    "desc": "Maven-based E-commerce test automation project using Java, Selenium WebDriver, and TestNG. Includes Page Object-based automation scripts, end-to-end test cases, and automatic generation of reports and screenshots",
+    "image": "report",
+    "category": "Software",
+    "links": {
+      "view": "https://github.com/vasudhaktippari/Automation_Exercise_Project",
+      "code": "https://github.com/vasudhaktippari/Automation_Exercise_Project"
+    }
+  },
   {
     "name": "Boat",
     "desc": "Design and Development of Remote Controlled Water Surface Cleaner",
@@ -62,16 +73,7 @@
       "code": "https://github.com/akash6629/AgroTech-Guardian-Arduino-Powered-Smart-Agriculture-/blob/main/code"
     }
   },
-  {
-    "name": "BMS",
-    "desc": "bank management system project in C++ is a software application that enables efficient handling of various banking operations",
-    "image": "bank",
-    "category": "Software",
-    "links": {
-      "view": "https://github.com/akash6629",
-      "code": "https://github.com/akash6629"
-    }
-  },
+  
   {
     "name": "RTRS",
     "desc": "It incorporates user-friendly interfaces and database management to facilitate seamless ticket booking and reservation processes.",
@@ -92,16 +94,7 @@
       "code": "https://github.com/akash6629"
     }
   },
-  {
-    "name": "Company website",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "company",
-    "category": "Website",
-    "links": {
-      "view": "https://github.com/akash6629",
-      "code": "https://github.com/akash6629"
-    }
-  },
+ 
   {
     "name": "PI Controller",
     "desc": "Design and Development of Inner Current Control Strategies Using PI Controller for Ev",
