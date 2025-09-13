@@ -1,17 +1,13 @@
 [
-   {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/?size=100&id=62452&format=png&color=000000"
+    {
+        "name": "Selenium WebDriver",
+        "icon": "https://img.icons8.com/?size=100&id=38553&format=png&color=000000"
     },
     {
-        "name": "DBMS",
-        "icon": "https://img.icons8.com/?size=100&id=XryDJ0zY1Dyy&format=png&color=000000"
+        "name": "Automation",
+        "icon": "https://img.icons8.com/?size=100&id=ebqYqqDXkhky&format=png&color=000000"
     },
-   {
-        "name": "linux",
-        "icon": "https://img.icons8.com/?size=100&id=17842&format=png&color=000000"
-    },
-   {
+    {
         "name": "HTML5",
         "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
     },
@@ -44,21 +40,7 @@
         "icon": "https://img.icons8.com/?size=100&id=63777&format=png&color=000000"
     },
     {
-        "name": "Aws",
-        "icon": "https://img.icons8.com/?size=100&id=33039&format=png&color=000000"
-    },
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/?size=100&id=13664&format=png&color=000000"
-    },
-    {
-        "name": "Autocaed",
-        "icon": "https://img.icons8.com/?size=100&id=Cz0X70Vx6rER&format=png&color=000000"
-    }
-    , {
         "name": "Power BI",
         "icon": "https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000"
     }
-     
-     
 ]
