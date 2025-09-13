@@ -1,0 +1,64 @@
+[
+   {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/?size=100&id=62452&format=png&color=000000"
+    },
+    {
+        "name": "DBMS",
+        "icon": "https://img.icons8.com/?size=100&id=XryDJ0zY1Dyy&format=png&color=000000"
+    },
+   {
+        "name": "linux",
+        "icon": "https://img.icons8.com/?size=100&id=17842&format=png&color=000000"
+    },
+   {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/?size=100&id=13679&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=100&id=ByCcJFjqrzw8&format=png&color=000000"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/?size=100&id=63777&format=png&color=000000"
+    },
+    {
+        "name": "Aws",
+        "icon": "https://img.icons8.com/?size=100&id=33039&format=png&color=000000"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/?size=100&id=13664&format=png&color=000000"
+    },
+    {
+        "name": "Autocaed",
+        "icon": "https://img.icons8.com/?size=100&id=Cz0X70Vx6rER&format=png&color=000000"
+    }
+    , {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000"
+    }
+     
+     
+]
